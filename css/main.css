@@ -107,3 +107,16 @@ body {
 	pointer-events: none;
 }
 
+a:hover {
+   color: #D02F21;
+}
+
+a {
+   display: inline-block;
+   
+   
+   /* цвет шрифта */
+   color: #fff;
+   
+  
+}
